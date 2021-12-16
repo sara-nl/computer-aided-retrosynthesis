@@ -12,4 +12,7 @@ Training can be commenced with the `tf1.15.sh` script inside the `transformer/te
 
 # Validation
 Validation can be commenced with the `validate.sh` script inside the `transformer/tensorflow/tf1.15_hvd` folder.
+
+# Publication
+The folder `publication` contains the PDF of the publication: `Scaling out Transformer models for Retrosynthesis on Supercomputers`. It also contains the data and scripts for making the plots in the paper.
  
