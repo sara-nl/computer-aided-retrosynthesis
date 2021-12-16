@@ -9,3 +9,7 @@ Data is included in the GitHub repository.
 
 # Training
 Training can be commenced with the `tf1.15.sh` script inside the `transformer/tensorflow/tf1.15_hvd` folder.
+
+# Validation
+Validation can be commenced with the `validate.sh` script inside the `transformer/tensorflow/tf1.15_hvd` folder.
+ 
