@@ -1,0 +1,9 @@
+Num Nodes,Workers,Computational speedup factor,Computational speedup factor,Ideal
+1,2,1,1,1
+2,4,1.9,1.9,2
+4,8,3.6,3.7,4
+8,16,7,7,8
+16,32,13.1,13.1,16
+32,64,24.7,24.7,32
+64,128,46.6,44.5,64
+128,256,88.9,86.3,128
